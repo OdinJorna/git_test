@@ -1,0 +1,9 @@
+Dit is een test om git nog beter te leren. 
+
+* stap 1 is het schrijven van tekst in dit bestand, zodat er een verandering komt
+* stap 2 is `git add hello_world.txt`
+* stap 3 is `git status`. Als het goed is, zal dit bestand groen zijn. to be committed
+* stap 4 is `git commit .` om alles that ge-add is te committen aan mijn lokale repo.
+* stap 5 is `git push origin main` om het op de github website te laten zien.
+
+cool
